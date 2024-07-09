@@ -9,3 +9,5 @@ In this project , I have mainly focused on backend side , on the security and au
 Technologies used - HTML, CSS, JavaScript, ExpressJS, NodeJS and MongoDB.
 
 Here I have used OAuth2 to acess google API for registering the new user along with the basic registeration method and to store information in MongoDB.
+I have also used passport , a nodeJS middleware to work on cookies and sessions on the website. So that the User experience and efficiency of website can be enhanced.
+Bcrypt library is being used for salting the password of the user for the ecurity purpose.
